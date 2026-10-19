@@ -1,0 +1,137 @@
+{
+  "report_pages": 10,
+  "report_allocation": [
+    {
+      "page": 1,
+      "heading": "1  Introduction",
+      "text_characters": 2510,
+      "images": 0
+    },
+    {
+      "page": 2,
+      "heading": "2  Literature Survey and Research Gaps",
+      "text_characters": 3268,
+      "images": 0
+    },
+    {
+      "page": 3,
+      "heading": "3  Literature Survey and Research Gaps",
+      "text_characters": 2790,
+      "images": 0
+    },
+    {
+      "page": 4,
+      "heading": "4  Problem Definition Objectives and Scope",
+      "text_characters": 2816,
+      "images": 0
+    },
+    {
+      "page": 5,
+      "heading": "5  System Architecture and Data Flow",
+      "text_characters": 1647,
+      "images": 1
+    },
+    {
+      "page": 6,
+      "heading": "6  Implementation and Important Algorithms",
+      "text_characters": 2600,
+      "images": 0
+    },
+    {
+      "page": 7,
+      "heading": "7  Application Outputs and Scenario Results",
+      "text_characters": 1885,
+      "images": 4
+    },
+    {
+      "page": 8,
+      "heading": "8  Evaluation and Further Application Outputs",
+      "text_characters": 2026,
+      "images": 4
+    },
+    {
+      "page": 9,
+      "heading": "9  Conclusion and Future Scope",
+      "text_characters": 2788,
+      "images": 0
+    },
+    {
+      "page": 10,
+      "heading": "10  References",
+      "text_characters": 2162,
+      "images": 0
+    }
+  ],
+  "presentation_slides": 11,
+  "slide_dimensions_emu": [
+    12192000,
+    6858000
+  ],
+  "names_verified": [
+    "Dr. Nilesh Yadav",
+    "Kartik Verma",
+    "Kushal Soni"
+  ],
+  "old_project_content_scan": "pass, including speaker notes",
+  "presentation_media": "Only template branding, architecture diagram, and actual screenshot crops",
+  "template_backup_hash_match": true,
+  "video": {
+    "path": "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\SMA_Major_Project_Demo.mp4",
+    "seconds": 148.16666666666666,
+    "frames": 889,
+    "fps": 6.0,
+    "dimensions": [
+      1920,
+      1080
+    ],
+    "codec": "H.264 / avc1",
+    "audio": "Captions only",
+    "capture": "Real headless Chrome interactions with the unchanged local application",
+    "sample_decode_checks_passed": true,
+    "browser_errors": [],
+    "sample_images": [
+      "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\dump\\build\\video_check_000.png",
+      "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\dump\\build\\video_check_008.png",
+      "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\dump\\build\\video_check_025.png",
+      "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\dump\\build\\video_check_045.png",
+      "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\dump\\build\\video_check_065.png",
+      "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\dump\\build\\video_check_085.png",
+      "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\dump\\build\\video_check_105.png",
+      "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\dump\\build\\video_check_125.png",
+      "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\dump\\build\\video_check_145.png"
+    ],
+    "decoded_frames": 889,
+    "full_decode_passed": true
+  },
+  "files": [
+    {
+      "path": "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\SMA_Major_Project_Report_10_Pages.docx",
+      "bytes": 727143,
+      "sha256": "0e004138311b3ccc142edaf64372c5964d3f6d08b8e61c8008aa82ba0d2e96f1"
+    },
+    {
+      "path": "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\SMA_Major_Project_Report_10_Pages.pdf",
+      "bytes": 577722,
+      "sha256": "bf293788d202f23b3b296eb8c83fec55e187064253e46cb0b7566396453a9db3"
+    },
+    {
+      "path": "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\SMA_Major_Project_Presentation.pptx",
+      "bytes": 382507,
+      "sha256": "03e722f598b46beedf9beddf82fe7a6febf32dd0d83c160cf35ed428f3bd5d3a"
+    },
+    {
+      "path": "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\SMA_Major_Project_Presentation.pdf",
+      "bytes": 404891,
+      "sha256": "17f3b445d90c7868a18aa1444088fdef6cfc23ffa195978b07979ffc88141434"
+    },
+    {
+      "path": "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\SMA_Major_Project_Demo.mp4",
+      "bytes": 3334011,
+      "sha256": "fa66ff25afa34e5dc19d57f3dabaa537f532e2ca80d4716caf37c0736105e3d4"
+    }
+  ],
+  "rendering": "Native Word and PowerPoint exports, with all report pages and slides visually reviewed",
+  "software_tests": "23 existing tests passed",
+  "source_changes": "No tracked source or runtime files modified",
+  "blockers": []
+}

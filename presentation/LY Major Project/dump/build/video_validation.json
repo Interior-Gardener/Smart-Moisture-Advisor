@@ -1,0 +1,28 @@
+{
+  "path": "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\SMA_Major_Project_Demo.mp4",
+  "seconds": 148.16666666666666,
+  "frames": 889,
+  "fps": 6.0,
+  "dimensions": [
+    1920,
+    1080
+  ],
+  "codec": "H.264 / avc1",
+  "audio": "Captions only",
+  "capture": "Real headless Chrome interactions with the unchanged local application",
+  "sample_decode_checks_passed": true,
+  "browser_errors": [],
+  "sample_images": [
+    "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\dump\\build\\video_check_000.png",
+    "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\dump\\build\\video_check_008.png",
+    "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\dump\\build\\video_check_025.png",
+    "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\dump\\build\\video_check_045.png",
+    "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\dump\\build\\video_check_065.png",
+    "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\dump\\build\\video_check_085.png",
+    "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\dump\\build\\video_check_105.png",
+    "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\dump\\build\\video_check_125.png",
+    "C:\\Users\\karti\\Desktop\\All Desktop Apps\\sma\\presentation\\LY Major Project\\dump\\build\\video_check_145.png"
+  ],
+  "decoded_frames": 889,
+  "full_decode_passed": true
+}

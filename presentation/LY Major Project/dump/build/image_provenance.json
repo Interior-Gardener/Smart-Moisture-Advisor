@@ -1,0 +1,110 @@
+{
+  "overview": {
+    "source": "presentation/screenshots/01_overview.png",
+    "crop_pixels": [
+      740,
+      270,
+      1425,
+      465
+    ]
+  },
+  "map": {
+    "source": "presentation/screenshots/02b_map_zoom.png",
+    "crop_pixels": [
+      395,
+      385,
+      2085,
+      1320
+    ]
+  },
+  "advisor": {
+    "source": "presentation/screenshots/03_advisor.png",
+    "crop_pixels": [
+      405,
+      620,
+      1520,
+      1245
+    ]
+  },
+  "rain": {
+    "source": "presentation/screenshots/05_rain.png",
+    "crop_pixels": [
+      395,
+      270,
+      1080,
+      650
+    ]
+  },
+  "simulator": {
+    "source": "presentation/screenshots/06_simulator.png",
+    "crop_pixels": [
+      1560,
+      355,
+      2115,
+      802
+    ]
+  },
+  "scheduler": {
+    "source": "presentation/screenshots/07_scheduler.png",
+    "crop_pixels": [
+      395,
+      715,
+      2110,
+      1325
+    ]
+  },
+  "chat": {
+    "source": "presentation/screenshots/09_chat.png",
+    "crop_pixels": [
+      420,
+      570,
+      2080,
+      1150
+    ]
+  },
+  "kannada": {
+    "source": "presentation/screenshots/04_advisor_kannada.png",
+    "crop_pixels": [
+      405,
+      625,
+      1510,
+      1210
+    ]
+  },
+  "fertigation": {
+    "source": "presentation/screenshots/03_advisor.png",
+    "crop_pixels": [
+      405,
+      1760,
+      1240,
+      2275
+    ]
+  },
+  "explanation": {
+    "source": "presentation/screenshots/03_advisor.png",
+    "crop_pixels": [
+      1280,
+      1760,
+      2120,
+      2180
+    ]
+  },
+  "curves": {
+    "source": "presentation/screenshots/03_advisor.png",
+    "crop_pixels": [
+      410,
+      1270,
+      2120,
+      1740
+    ]
+  },
+  "insights": {
+    "source": "presentation/screenshots/08_insights.png",
+    "crop_pixels": [
+      400,
+      515,
+      2110,
+      1070
+    ]
+  }
+}
